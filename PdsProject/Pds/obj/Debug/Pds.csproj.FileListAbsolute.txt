@@ -1,0 +1,286 @@
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\App.g.cs
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\londo\source\repos\Pds\Pds\bin\Debug\Pds.exe.config
+C:\Users\londo\source\repos\Pds\Pds\bin\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds\bin\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\MainWindow.baml
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Pds.g.resources
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Window1.g.cs
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Window2.g.cs
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Window1.baml
+C:\Users\londo\source\repos\Pds\Pds\obj\Debug\Window2.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Form1.resources
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Form1.resources
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Form1.resources
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds_v12\Pds_v11\Pds_v8\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds_v18\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\Pds_v19\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\Carlotta\Documents\POLITECNICO\1L.M\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\final\final\Pds_v20 (1)\Pds_v20\Pds_v7\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final2\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\londo\source\repos\Pds\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.csprojResolveAssemblyReference.cache
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\ListaUtenti.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\MainWindow.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window1.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window2.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\App.g.cs
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.cache
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds_MarkupCompile.lref
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.exe
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\bin\Debug\Pds.exe.config
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\bin\Debug\Pds.exe
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\bin\Debug\Pds.pdb
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\ListaUtenti.baml
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\MainWindow.baml
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window1.baml
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Window2.baml
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.g.resources
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.Form2.resources
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.Properties.Resources.resources
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.csproj.GenerateResource.cache
+C:\Users\Carlotta\Documents\POLITECNICO\ProgettoPDS_final_dapulire_4\ProgettoPDS_final_dapulire\Pds_v7\Pds\obj\Debug\Pds.csproj.CoreCompileInputs.cache

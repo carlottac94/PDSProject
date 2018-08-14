@@ -1,0 +1,42 @@
+﻿<Window x:Class="Pds.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pds"
+        mc:Ignorable="d" ShowInTaskbar="False"
+        Title="Stato" Height="130.216" Width="287.769" Background="Black" WindowStyle="None" AllowsTransparency="True" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="Settings" Click="Button_Click" Margin="2,5,40,94.4" Content="Impostazioni di condivisione" FontSize="20" Cursor="Hand" FontFamily="Yu Gothic UI Light" Background="#FF080808" BorderBrush="#FF0A0909">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <TextBlock TextDecorations="Underline">
+                <ContentPresenter />
+                    </TextBlock>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Foreground" Value="White" />
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <ToggleButton x:Name="StatusButton" Click="StatusButtonClick" Content="Stato: Online" Margin="25,88,130,10" FontSize="20" FontFamily="Yu Gothic UI Light" Opacity="0.96">
+            <ToggleButton.Style>
+                <Style TargetType="{x:Type ToggleButton}">
+                    <Setter Property="Background" Value="#FF005CFC"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsChecked" Value="true">
+                            <Setter Property="Background" Value="#FFB6AEAE"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </ToggleButton.Style>
+        </ToggleButton>
+    </Grid>
+</Window>
